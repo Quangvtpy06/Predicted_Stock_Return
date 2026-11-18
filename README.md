@@ -11,6 +11,7 @@ Dự án sử dụng ngôn ngữ R để xử lý dữ liệu chuỗi thời gia
 - Thu thập và chuẩn hóa dữ liệu giá đóng cửa (`Close`) và khối lượng (`Volume`) giai đoạn 2022 – 2026.
 - Trực quan hóa biến động giá và biểu đồ phân tích kỹ thuật.
 - Xây dựng mô hình kiểm định và đánh giá mối quan hệ giữa khối lượng giao dịch và tỷ suất sinh lời cổ phiếu.
+- Dự báo và so sánh 2 chiến lược backtest dùng dự báo và và chiến lược mua giữ để xem lợi suất của chiến lược dự báo có tốt hơn khi không dùng chiến lược không
 
 ## 🛠️ 3. Công nghệ & Thư viện (Tech Stack)
 - **Ngôn ngữ:** R (100%)
